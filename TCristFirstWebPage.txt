@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title> About Travis Crist</title>
+		<title> About Travis Crist </title>
 	</head>
 	
 	<body>
