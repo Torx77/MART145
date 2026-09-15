@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<title> About Travis Crist</title>
-	<head>
+	</head>
 	
 	<body>
 		<h1> Travis Crist </h1>
@@ -17,8 +17,8 @@
 		
 		<img src="bertha.jpg">
 			
-	<body>
-<html>
+	</body>
+</html>
 
 		
 		
