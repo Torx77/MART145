@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title>Contact</title>
+</head>
+<body>
+    <h1>Contact Me</h1>
+    <p>Email: travis.a.crist@gmail.com</p>
+    
+
+    <h3>Navigation</h3>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Me</a></li>
+        <li><a href="projects.html">Projects & Hobbies</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="contact.html">Contact</a></li>
+    </ul>
+</body>
+</html>
