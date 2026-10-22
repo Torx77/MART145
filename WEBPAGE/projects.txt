@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Projects & Hobbies</title>
+<link rel="stylesheet" href="mystyle.css">
 </head>
 <body>
     <h1>Projects & Hobbies</h1>
