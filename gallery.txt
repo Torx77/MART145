@@ -1,0 +1,24 @@
+<html>
+<head>
+    <title>Gallery</title>
+</head>
+<body>
+    <h1>Gallery</h1>
+    <p>More photos coming soon.</p>
+
+    
+    <img src="ultra.jpg" width="300" alt="Motorcycle being worked on.">
+	<img src="BettySL.jpg" alt= "Motorcycle with St.Louis arch in background.">
+
+    <h3>Navigation</h3>
+	
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Me</a></li>
+        <li><a href="projects.html">Projects & Hobbies</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="contact.html">Contact</a></li>
+    </ul>
+	
+</body>
+</html>
